@@ -1,0 +1,44 @@
+.card{
+    height:10rem;
+    width: 15rem;
+    background-color: #505050;
+    margin: 2rem 2rem;
+    display: inline-flex;
+    border-radius: 20px;
+    flex-direction: column;
+    
+    
+}
+.imagem{
+
+ display: block;
+ height: 80% ;
+ width: inherit;
+ text-align: center;
+
+    
+}
+.propriet{
+    display: flex;
+    align-items: center;
+    color:red;
+    font-weight: boder; 
+    justify-content: center;
+    background-color: transparent;
+    border-radius:  0 0 10px 10px;
+    font-size: 1.5em;
+    padding-bottom: 10px;
+    
+}
+.propriet1{
+    display: flex;
+    align-items: center;
+    color:rgb(175, 175, 175);
+    font-weight: boder; 
+    justify-content: center;
+    background-color: transparent;
+    border-radius:  0 0 10px 10px;
+    font-size: 1em;
+    padding-bottom: 10px;
+    
+}
